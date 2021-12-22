@@ -18,4 +18,4 @@
 - This app consists of a `Counter` component which will be reused in the `host app`.
 - The `Counter` component just increments the state locally. 
 - The app is made available to the `host` using [custom-elements](https://developers.google.com/web/fundamentals/web-components/customelements#reactions)
-- The app is being rendered via the function https://github.com/Sampath-vi/web-components/blob/main/remote/src/index.tsx#L8.
+- The app is being rendered via this [function](https://github.com/Sampath-vi/web-components/blob/main/remote/src/index.tsx#L8).
